@@ -1,3 +1,3 @@
-a full featured rubik's cube implemented in pure html/css/js.
+A full featured 3D Rubik's cube implemented in pure html/css/js.
 
-live version: https://clark-castro.github.io/NeoCube/
+Live version: https://clark-castro.github.io/NeoCube/
